@@ -1,0 +1,12 @@
+.env
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/private/
+data/models/
+benchmarks/results/
+data/*.sqlite3*
+data/*.log
+data/frontend-check.js
